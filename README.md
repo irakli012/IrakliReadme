@@ -1,4 +1,4 @@
-#### WELCOME TO MY WORLD
+#### WELCOME TO MY PROFILE
 # 👋 Hi, I’m @irakli012
 ### Middle .NET Backend Developer | Full-Stack & Cloud Engineer
 
@@ -8,42 +8,55 @@
 - ☁️ **DevOps & Infrastructure:** Managing **IIS**, **NGINX**, and **Linux Clusters**. Implementing **CI/CD** pipelines for automated deployments.
 - 🤖 **Next-Gen Dev:** Expert in **Prompt Engineering** and AI-powered workflows (**Cursor, Copilot, Claude**) to maximize development velocity.
 
+---
+
 ## 🛠️ Tech Stack & Tools
 
 **Backend & Architecture**
 <div align="left">
-  <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45">
-  <img alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45">
-  <img alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="45">
-  <img src="https://img.shields.io/badge/MediatR-512BD4?style=flat&logo=dotnet&logoColor=white" height="40" alt="MediatR">
-  <img src="https://img.shields.io/badge/.NET_Versions-6_|_8_|_9_|_10-512BD4?style=flat" height="40" alt="Versions">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="35" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35" alt=".NET">
+  <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35" alt=".NET Framework">
+  <img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35" alt="MediatR">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="35" alt="Laravel">
+</div>
+<div align="left" style="margin-top: 5px;">
+  <img src="https://img.shields.io/badge/.NET_Versions-6_|_8_|_9_|_10-512BD4?style=flat" height="30" alt="Versions">
 </div>
 
 **Databases & Persistence**
 <div align="left">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-Expert-00758F?style=for-the-badge&logo=mysql&logoColor=white" height="35">
-  <img alt="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="45">
-  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45">
-  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45">
-  <img src="https://img.shields.io/badge/NoSQL-Data-green?style=flat" height="40">
-  <img src="https://img.shields.io/badge/Stored_Procedures-Data_Logic-orange?style=flat" height="40">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="35" alt="Oracle">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="35" alt="MS SQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="35" alt="Postgres">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="35" alt="MongoDB">
+</div>
+<div align="left" style="margin-top: 5px;">
+  <img src="https://img.shields.io/badge/NoSQL-Data-green?style=flat" height="30" alt="NoSQL">
+  <img src="https://img.shields.io/badge/Stored_Procedures-Data_Logic-orange?style=flat" height="30" alt="Stored Procedures">
 </div>
 
 **Cloud, DevOps & Infrastructure**
 <div align="left">
-  <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45">
-  <img alt="NGINX" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="45">
-  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45">
-  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white" height="40" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/CI/CD-Pipelines-blue?style=flat" height="40">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="35" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35" alt="Docker">
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" height="35" alt="NGINX">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" height="35" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="35" alt="Linux">
+</div>
+<div align="left" style="margin-top: 5px;">
+  <img src="https://img.shields.io/badge/CI/CD-Pipelines-blue?style=flat" height="30" alt="CI/CD">
+  <img src="https://img.shields.io/badge/IIS-Windows_Server-blue?style=flat" height="30" alt="IIS">
 </div>
 
-**AI & Engineering Focus**
+**Testing & AI Engineering**
 <div align="left">
-  <img src="https://img.shields.io/badge/Prompt_Engineering-Expert-8E75B2?style=for-the-badge&logo=openai&logoColor=white" height="35">
-  <img src="https://img.shields.io/badge/NUnit-Testing-20AE0B?style=flat&logo=nunit" height="40">
-  <img src="https://img.shields.io/badge/xUnit-Testing-512BD4?style=flat&logo=dotnet" height="40">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-Expert-8E75B2?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="Prompt Engineering">
+  <img src="https://img.shields.io/badge/Cursor_IDE-191919?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="Cursor">
+</div>
+<div align="left" style="margin-top: 5px;">
+  <img src="https://img.shields.io/badge/NUnit-Testing-20AE0B?style=flat&logo=nunit" height="30" alt="NUnit">
+  <img src="https://img.shields.io/badge/xUnit-Testing-512BD4?style=flat&logo=dotnet" height="30" alt="xUnit">
 </div>
 
 ---
