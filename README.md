@@ -69,8 +69,19 @@
 
 ---
 
-<div align="center"> 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=10&duration=2700&size=34&color=512BD4&center=true&vCenter=true&width=750&lines=Welcome!;I'm%20Irakli%20Matiashvili" alt="Welcome — I'm Irakli Matiashvili" />
+
+  <br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irakli012/irakli012/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irakli012/irakli012/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/irakli012/irakli012/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  </picture>
+
+  <br><br>
+
   <h3 align="center">⚡ GitHub Stats & Activity</h3>
-  
   <img height="170" src="https://streak-stats.demolab.com/?user=irakli012&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
